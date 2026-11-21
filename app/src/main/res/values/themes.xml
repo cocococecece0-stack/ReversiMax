@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.ReversiMax" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#0E1230</item>
+        <item name="android:windowBackground">#0E1230</item>
+    </style>
+</resources>
